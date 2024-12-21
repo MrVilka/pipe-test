@@ -1,7 +1,7 @@
 function myf1() {
   window.open("kran-sh.html");
 }
-function myf3() {
+function myf5() {
   window.open('zadt.html')
 }
 function myf2() {
@@ -10,7 +10,7 @@ function myf2() {
 function myf4() {
   window.open('det.html')
 }
-function myf5() {
+function myf3() {
   window.open('proche.html')
 }
 
